@@ -1,0 +1,21 @@
+
+;; ----- amx-history -----
+(
+ treemacs
+ treemacs-mode
+ lsp-java-build-project
+ projectile-mode
+ project-search
+ package-install
+ cd
+)
+
+;; ----- amx-data -----
+(
+ (package-install . 8)
+ (project-search . 1)
+ (projectile-mode . 2)
+ (lsp-java-build-project . 1)
+ (treemacs . 3)
+ (treemacs-mode . 1)
+)
